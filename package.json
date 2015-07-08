@@ -1,0 +1,14 @@
+{
+  "name": "rails_react_introduction",
+  "devDependencies": {
+    "browserify": "~>6.3",
+    "browserify-incremental": "^1.4.0",
+    "react": "^0.12.2",
+    "react-tools": "^0.12.2",
+    "promised-xhr": "*",
+    "reactify": "^0.17.1"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}
